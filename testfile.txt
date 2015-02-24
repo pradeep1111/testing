@@ -1,17 +1,7 @@
 testing
 sadsdfs file is edited in git
 just edited for test
-dtr testretret
 
-fdg
-g
-dsfg
-sfdgsdfg
-
-fdgsd
-g
-gs
-dfg
 fds
 gsdfg
 
@@ -20,7 +10,3 @@ fsdg
 sfdg
 sdfg
 fjsdlfkds flsj
-fsdakf;ds
-dsafasjdf
-\srwerweio
-dsfsdflkewlrer
